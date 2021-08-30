@@ -1,11 +1,11 @@
-const FILES_TO_CASHE = [
+const FILES_TO_CACHE = [
     "./index.html",
     "./js/index.js",
     "./css/styles.css"
 ];
 const APP_PREFIX = 'BudgetTracker-';
 const VERSION = 'version_01';
-const CASHE_NAME = APP_PREFIX + VERSION;
+const CACHE_NAME = APP_PREFIX + VERSION;
 
 self.addEventListener('install', function (e) {
     e.waitUntil(
