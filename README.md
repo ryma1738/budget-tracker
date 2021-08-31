@@ -9,13 +9,8 @@ To install this project download the contents then in the cmp cd to the location
 ## Usage
 To use this project you must have mongodb installed and type npm start to start the server. Next navigate to http://localhost:3001 to access the site
 
-
-## Contributions
-If you would like to contribute to this project, please follow the guidelines below:
-n
-
-## Testing
-n
+## Website link
+https://budget-tracker-school-project.herokuapp.com/ 
 
 ## License
 
